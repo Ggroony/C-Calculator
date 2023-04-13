@@ -1,0 +1,14 @@
+Week 4 Calculator Project: Notes
+
+The following is my project implementing UDT's as a simple calculator for users. 
+
+The system implements a template in the header file, and then directly implements it into the main.cpp along with the template class
+that was created. Users can enter the two numbers, which are stored into template variables, allowing the program
+to accept any type of entry. Then the program will ask the user for a operator variable, and based on that entry the program will perform the
+desired mathmatic operation. 
+
+Thank you! 
+
+Issues: I am gettting the error LNK2019 saying there is an unresolved error. I attempted to research this and the advice I got online
+was to switch some settings and make sure my references to functions were correct. They appear to be, so I'm not sure why the program will 
+not run. Any advice? 
